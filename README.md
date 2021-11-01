@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @batat106
+- 👋 Hi, I’m batat
 - 👀 I’m interested in programming and 3D modeling
 - 🌱 I’m currently learning C#
 - 📫 How to reach me https://vk.com/batat106
